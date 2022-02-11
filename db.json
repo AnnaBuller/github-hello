@@ -1,0 +1,19 @@
+{
+    "github": {
+        "repositories": {
+            "1": "repo1",
+            "2": "repo1"
+        },
+        "users": {
+            "user1": {
+                "name": "Anna",
+                "surname": "Karenina"
+            },
+            "user2": {
+                "name": "Juliusz",
+                "surname": "Cezar"
+            }
+        }
+    },
+    "codesandbox": "no data"
+}
